@@ -86,7 +86,7 @@ export default {
   },
   components: {
     NoteItem,
-    draggable,
+    draggable,F
   },
 }
 </script>
